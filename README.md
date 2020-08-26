@@ -1,4 +1,8 @@
 # test-by-kangyi
 my test repository
 niubi
-shabi
+<<<<<<< HEAD
+chunbi
+=======
+chunbi
+>>>>>>> newtestbranch2
